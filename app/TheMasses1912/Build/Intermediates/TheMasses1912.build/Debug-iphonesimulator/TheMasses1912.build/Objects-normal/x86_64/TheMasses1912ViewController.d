@@ -1,0 +1,16 @@
+dependencies: \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912ViewController.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912Constants.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912ViewController.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912Document.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/ThumbsViewController.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/ThumbsMainToolbar.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/UIXToolbarView.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912ThumbsView.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912ThumbView.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912MainToolbar.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912MainPagebar.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912ContentView.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912ThumbCache.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912ThumbRequest.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1912/Sources/TheMasses1912ThumbQueue.h
