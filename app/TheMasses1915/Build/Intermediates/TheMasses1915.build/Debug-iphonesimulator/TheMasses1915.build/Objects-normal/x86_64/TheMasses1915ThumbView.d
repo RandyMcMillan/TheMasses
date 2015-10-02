@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbView.m \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbView.h
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915ThumbView.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915ThumbView.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911Constants.m \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911Constants.h
+  /Users/randymcmillan/TheMasses/app/TheMasses1916/Sources/TheMasses1916Constants.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1916/Sources/TheMasses1916Constants.h

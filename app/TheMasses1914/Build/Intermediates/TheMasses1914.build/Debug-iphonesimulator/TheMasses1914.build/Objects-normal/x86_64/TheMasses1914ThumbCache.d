@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbCache.m \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbCache.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbRequest.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbQueue.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbFetch.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbView.h
+  /Users/randymcmillan/TheMasses/app/TheMasses1914/Sources/TheMasses1914ThumbCache.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1914/Sources/TheMasses1914ThumbCache.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1914/Sources/TheMasses1914ThumbRequest.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1914/Sources/TheMasses1914ThumbQueue.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1914/Sources/TheMasses1914ThumbFetch.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1914/Sources/TheMasses1914ThumbView.h

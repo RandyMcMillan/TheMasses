@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911Document.m \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911Document.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/CGPDFDocument.h
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915Document.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915Document.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/CGPDFDocument.h

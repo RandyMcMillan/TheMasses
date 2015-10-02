@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbRequest.m \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbRequest.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ThumbView.h
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915ThumbRequest.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915ThumbRequest.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915ThumbView.h

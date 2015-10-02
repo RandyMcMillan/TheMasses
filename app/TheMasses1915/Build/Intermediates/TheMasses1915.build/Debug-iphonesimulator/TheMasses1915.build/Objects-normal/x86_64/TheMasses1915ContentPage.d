@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ContentPage.m \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911Constants.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ContentPage.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ContentTile.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/CGPDFDocument.h
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915ContentPage.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915Constants.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915ContentPage.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/TheMasses1915ContentTile.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1915/Sources/CGPDFDocument.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ContentTile.m \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Sources/TheMasses1911ContentTile.h
+  /Users/randymcmillan/TheMasses/app/TheMasses1914/Sources/TheMasses1914ContentTile.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1914/Sources/TheMasses1914ContentTile.h

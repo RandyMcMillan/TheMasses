@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Classes/TheMasses1911AppDelegate.m \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Classes/TheMasses1911AppDelegate.h \
-  /Users/randymcmillan/TheMasses/app/TheMasses1911/Classes/TheMasses1911DemoController.h
+  /Users/randymcmillan/TheMasses/app/TheMasses1917/Classes/TheMasses1917AppDelegate.m \
+  /Users/randymcmillan/TheMasses/app/TheMasses1917/Classes/TheMasses1917AppDelegate.h \
+  /Users/randymcmillan/TheMasses/app/TheMasses1917/Classes/TheMasses1917DemoController.h
