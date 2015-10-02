@@ -1,1 +1,2 @@
 THE[[:space:]]MASSES.pdf filter=lfs diff=lfs merge=lfs -text
+the_masses_index.pdf filter=lfs diff=lfs merge=lfs -text
